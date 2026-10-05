@@ -1,2 +1,0 @@
-# MyAutomationApp
-تطبيق أتمتة خاص
